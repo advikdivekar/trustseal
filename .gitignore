@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+api/data/
+dist/
+*.mov
+*.mp4
+*.pdf
+*.pptx
+*.docx
+*.jpg
+*.png
+FLINT_diagrams.html
+split/
